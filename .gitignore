@@ -1,0 +1,8 @@
+*.log
+*.pth
+*.pkl
+*.ckpt
+**/ckpt/
+*.ckpt
+*.pt
+*.pth
